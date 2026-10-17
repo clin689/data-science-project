@@ -33,11 +33,6 @@ pip install -r requirements.txt
 jupyter notebook
 
 ## Visualizations
-git clone https://github.com/clin689/data-science-project.git
-cd data-science-project
-pip install -r requirements.txt
-jupyter notebook
-
 ![Visualization 1](images/1.png)
 ![Visualization 2](images/2.png)
 ![Visualization 3](images/3.png)
