@@ -27,7 +27,6 @@ All datasets are course-provided CSV files for CISC7204 and are used for academi
 **Limitation:** The analysis is purely descriptive; no inferential statistics or predictive modeling was performed.
 
 ## 5. Instructions to Run the Analysis
-```bash
 git clone https://github.com/clin689/data-science-project.git
 cd data-science-project
 pip install -r requirements.txt
